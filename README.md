@@ -26,6 +26,6 @@
 <!--START_SECTION:waka-->
 ```text
 JavaScript          7 hrs 12 mins   ██████████████████░░░░░░░   72.35 % 
-NodeJs              2 hrs 45 mins   ███████░░░░░░░░░░░░░░░░░░   27.65 % 
+CSS                 2 hrs 45 mins   ███████░░░░░░░░░░░░░░░░░░   27.65 % 
 ```
 <!--END_SECTION:waka-->
