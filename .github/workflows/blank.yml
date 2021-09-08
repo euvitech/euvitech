@@ -28,10 +28,14 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_TITLE: "true"
           SHOW_OS: "False"
           SHOW_PROJECTS: "False"
           SHOW_LANGUAGE: "True"
           SHOW_LANGUAGE_PER_REPO: "True"
+          COMMIT_MESSAGE: Updated the Readme
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+          API_BASE_URL: https://wakapi.dev/api
           
   # This workflow contains a single job called "build"
   build:
