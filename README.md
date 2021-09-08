@@ -22,10 +22,6 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=green&color=black" target="_blank"></a> 
   </div>
 
-📊 **this week i spent my time on:**
+📊 **esta semana eu gastei meu tempo em:**
 <!--START_SECTION:waka-->
-```text
-JavaScript          7 hrs 12 mins   ██████████████████░░░░░░░   72.35 % 
-CSS                 2 hrs 45 mins   ███████░░░░░░░░░░░░░░░░░░   27.65 % 
-```
 <!--END_SECTION:waka-->
