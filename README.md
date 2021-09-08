@@ -21,3 +21,7 @@
   <a href = "mailto:vguard.2003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=green&color=black" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=green&color=black" target="_blank"></a> 
   </div>
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
