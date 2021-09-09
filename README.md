@@ -1,7 +1,7 @@
 
 <a href="https://github.com/Vinicius-Vguard">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinicius-Vguard&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Vguard&layout=compact&langs_count=7&theme=merko"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinicius-Vguard&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Vguard&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -24,4 +24,14 @@
 
 📊 **esta semana eu gastei meu tempo em:**
 <!--START_SECTION:waka-->
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ViniciusVguard&theme=chartreuse-dark)](https://github.com/Vinicius-Vguard/github-readme-stats)
 <!--END_SECTION:waka-->
+  
+<div>
+  <a href="https://github.com/Vinicius-Vguard/site-perguntas-anonimas">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vinicius-Vguard&repo=site-perguntas-anonimas&theme=chartreuse-dark"  />
+</a>
+  <a href="https://github.com/Vinicius-Vguard/undership2.0">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vinicius-Vguard&repo=undership2.0&theme=chartreuse-dark"  />
+</a>
+  </div>
