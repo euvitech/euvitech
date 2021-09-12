@@ -26,11 +26,3 @@
 
 <!--END_SECTION:waka-->
   
-<div>
-  <a href="https://github.com/Vinicius-Vguard/site-perguntas-anonimas">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Vinicius-Vguard&repo=site-perguntas-anonimas&theme=chartreuse-dark"  />
-</a>
-  <a href="https://github.com/Vinicius-Vguard/undership2.0">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Vinicius-Vguard&repo=undership2.0&theme=chartreuse-dark"  />
-</a>
-  </div>
