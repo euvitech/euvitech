@@ -22,9 +22,8 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=green&color=black" target="_blank"></a> 
   </div>
 
-📊 **esta semana eu gastei meu tempo em:**
 <!--START_SECTION:waka-->
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ViniciusVguard&theme=chartreuse-dark)](https://github.com/Vinicius-Vguard/github-readme-stats)
+
 <!--END_SECTION:waka-->
   
 <div>
