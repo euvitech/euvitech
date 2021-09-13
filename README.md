@@ -23,5 +23,11 @@
   </div>
 
 <!--START_SECTION:waka-->
+  <h3>Veja oque eu estou fazendo nessa semana<h3>
+  <details>
+    <img align="left"alt="Vini-HTML" height="400" width="400" src="https://wakatime.com/share/@ViniciusVguard/fcfe2b53-ef4c-4a85-9b7a-27c2676ed220.svg">
+    <img align="right" alt="Vini-HTML" height="400" width="400" src="https://wakatime.com/share/@ViniciusVguard/2f52e488-4a9d-45d6-b68b-7409e9d67c70.svg">
+    </details>
+  
 <!--END_SECTION:waka-->
   
