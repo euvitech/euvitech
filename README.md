@@ -9,7 +9,8 @@
   <img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vini-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <a href="https://github.com/euvitech"><img align="right" src="https://i.picasion.com/pic91/5d8462fdb11261cca99f5d303bf4fdb2.gif" width="125" height="125" border="0" alt="https://github.com/euvitech" /></a><br /><a href="https://github.com/Vinicius-Vguard"></a>
+  <img align="center" alt="Vini-react" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)">
+  <a href="https://github.com/euvitech"><img align="right" src="https://i.picasion.com/pic91/5d8462fdb11261cca99f5d303bf4fdb2.gif" width="125" height="125" border="0" alt="https://github.com/euvitech" /></a><br /><a href="https://github.com/euvitech"></a>
 </div>
 
 ##
