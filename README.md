@@ -23,12 +23,5 @@
   <a href="https://www.linkedin.com/in/euvitech/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=green&color=black" target="_blank"></a> 
   </div>
 
-<!--START_SECTION:waka-->
-  <h3>Veja oque eu estou fazendo nessa semana<h3>
-  <details>
-    <img align="left"alt="Vini-HTML" height="400" width="400" src="https://wakatime.com/share/@euvitech/fcfe2b53-ef4c-4a85-9b7a-27c2676ed220.svg">
-    <img align="right" alt="Vini-HTML" height="400" width="400" src="https://wakatime.com/share/@euvitech/2f52e488-4a9d-45d6-b68b-7409e9d67c70.svg">
-    </details>
-  
-<!--END_SECTION:waka-->
+
   
