@@ -24,4 +24,4 @@
   </div>
 
 
-  
+  ![Snake animation](https://github.com/euvitech/euvitech/blob/output/github-contribution-grid-snake.svg)
