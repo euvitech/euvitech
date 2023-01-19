@@ -11,7 +11,7 @@
   <img align="center" alt="Vini-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Vini-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Vini-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="Vini-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg.svg">
+  <img align="center" alt="Vini-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <a href="https://github.com/euvitech"><img align="right" src="https://i.picasion.com/pic91/5d8462fdb11261cca99f5d303bf4fdb2.gif" width="125" height="125" border="0" alt="https://github.com/euvitech" /></a><br /><a href="https://github.com/euvitech"></a>
 </div>
 
