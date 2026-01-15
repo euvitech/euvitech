@@ -1,10 +1,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?color=97ca00&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Vinicius;I'm+a+Software+Engineer;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-🚀 **Software Engineer** focused on **Back-end development** — I enjoy building clean, secure, and scalable systems behind the scenes.
+🚀 **Software Engineer** focused on **Back-end development** — I enjoy building clean, secure, and scalable systems behind the scenes, turning ideas into reliable services with well-designed APIs, solid data models, and attention to security and performance.
 
-### 🧠 Studying in this moment:
+🏆 I’ve participated in **hackathons**, working on projects related to **digital safety/security** and also on solutions designed to help people **return to local businesses in Brasília**, connecting technology with real-world impact.
 
+☕ Currently studying **Java**, strengthening my foundations in software engineering and backend architecture. Outside of coding, I enjoy reading **philosophy** books in my free time — always curious about ideas, people, and how we can build better systems (and lives).
+
+<br><br><br><br>
 <!-- ICON PROGRAMMING LANGUAGE -->
 <div style="display: inline_block"><br>
   <img align="center" alt="euvitech-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
@@ -12,11 +15,12 @@
 
 <!-- ICON PROGRAMMING LANGUAGE -->
 <div style="display: inline_block"><br>
-  <img align="center" alt="Vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="euvitech-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" alt="Vini-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Vini-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vini-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Vini-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <a href="https://github.com/euvitech"><img align="right" src="https://i.picasion.com/pic91/5d8462fdb11261cca99f5d303bf4fdb2.gif" width="125" height="125" border="0" alt="https://github.com/euvitech" /></a><br /><a href="https://github.com/euvitech"></a>
