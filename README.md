@@ -7,11 +7,7 @@
 
 ☕ Currently studying **Java**, strengthening my foundations in software engineering and backend architecture. Outside of coding, I enjoy reading **philosophy** books in my free time — always curious about ideas, people, and how we can build better systems (and lives).
 
-<br><br><br><br>
-<!-- ICON PROGRAMMING LANGUAGE -->
-<div style="display: inline_block"><br>
-  <img align="center" alt="euvitech-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-</div>
+<br><br>
 
 <!-- ICON PROGRAMMING LANGUAGE -->
 <div style="display: inline_block"><br>
