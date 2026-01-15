@@ -1,6 +1,14 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?color=97ca00&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Vinicius;I'm+a+Software+Engineer;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+🚀 **Software Engineer** focused on **Back-end development** — I enjoy building clean, secure, and scalable systems behind the scenes.
+
+### 🧠 Studying in this moment:
+
+<!-- ICON PROGRAMMING LANGUAGE -->
+<div style="display: inline_block"><br>
+  <img align="center" alt="euvitech-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+</div>
 
 <!-- ICON PROGRAMMING LANGUAGE -->
 <div style="display: inline_block"><br>
