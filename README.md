@@ -7,7 +7,6 @@
 
 ☕ Currently studying **Java**, strengthening my foundations in software engineering and backend architecture. Outside of coding, I enjoy reading **philosophy** books in my free time — always curious about ideas, people, and how we can build better systems (and lives).
 
-<br>
 
 <!-- ICON PROGRAMMING LANGUAGE -->
 <div style="display: inline_block"><br>
