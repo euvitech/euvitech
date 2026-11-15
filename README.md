@@ -1,4 +1,3 @@
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?color=97ca00&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Vinicius;I'm+a+Software+Engineer;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 🚀 **Software Engineer** focused on **Back-end development** — I enjoy building clean, secure, and scalable systems behind the scenes, turning ideas into reliable services with well-designed APIs, solid data models, and attention to security and performance.
